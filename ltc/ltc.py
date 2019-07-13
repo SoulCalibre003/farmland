@@ -95,7 +95,7 @@ async def tuyulcryptosRn():
   tuyulcryptosdS(" ~ Usage: python main.py phone_number",end="\n\n")
   tuyulcryptosdS(" ~ phone_number must be write in internasional format (example: +63907xxxxx)")
   tuyulcryptosdy(1)
- tuyulcryptosdS(" ^_^ LTC Click Bot Auto-Claim ^_^\n\n")
+ tuyulcryptosdS(" ^_^ LTC Click Bot Auto Claim ^_^\n\n")
  tuyulcryptosRY=tuyulcryptosRs(tuyulcryptosdc[1])
  await tuyulcryptosRY.start(tuyulcryptosdc[1])
  me=await tuyulcryptosRY.get_me()
