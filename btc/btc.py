@@ -89,15 +89,15 @@ try:
    return UravxBuCwNMpYWTzKhPH
  def UravxBuCwNMpYWTzKhPt():
   UravxBuCwNMpYWTzKhPI("".rjust(50,'-'))
-  UravxBuCwNMpYWTzKhPI(" Autoclaim BTCBOT ".center(50,' '))
+  UravxBuCwNMpYWTzKhPI("Autoclaim BTCBOT".center(50,' '))
   UravxBuCwNMpYWTzKhPI(''.rjust(50,'-'))
   UravxBuCwNMpYWTzKhPI("Facebook : SoulCalibre007")
   UravxBuCwNMpYWTzKhPI(''.rjust(50,'-'))
   UravxBuCwNMpYWTzKhPI("Country : Philippines")
   UravxBuCwNMpYWTzKhPI(''.rjust(50,'-'))
-  UravxBuCwNMpYWTzKhPI(" Author : SoulCalibre007")
+  UravxBuCwNMpYWTzKhPI("Author : SoulCalibre007")
   UravxBuCwNMpYWTzKhPI(''.rjust(50,'-'))
-  UravxBuCwNMpYWTzKhPI(UravxBuCwNMpYWTzKhPq+"YouTube : https://www.youtube.com/JonathanBayudang".center(40,' '))
+  UravxBuCwNMpYWTzKhPI(UravxBuCwNMpYWTzKhPq+"YouTube : JonathanBayudang".center(40,' '))
   UravxBuCwNMpYWTzKhPI(''.rjust(50,'-'))
  async def UravxBuCwNMpYWTzKhPF():
   if not UravxBuCwNMpYWTzKhPb.exists("session"):
