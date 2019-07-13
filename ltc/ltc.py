@@ -86,7 +86,7 @@ def tuyulcryptosRP(markup):
   return tuyulcryptosdG
 def tuyulcryptosRE():
  tuyulcryptosdS("\n\n")
- tuyulcryptosdS("\033[92m\t [!]By Damang, (Subscribe to Termux Tricks and tut)[!]\033[0m\n")
+ tuyulcryptosdS("\033[92m\t [!]SoulCalibre[!]\033[0m\n")
 async def tuyulcryptosRn():
  if not tuyulcryptosdz.exists("session"):
   tuyulcryptosdb("session")
@@ -95,7 +95,7 @@ async def tuyulcryptosRn():
   tuyulcryptosdS(" ~ Usage: python main.py phone_number",end="\n\n")
   tuyulcryptosdS(" ~ phone_number must be write in internasional format (example: +63907xxxxx)")
   tuyulcryptosdy(1)
- tuyulcryptosdS(" ^_^😎 BotTelegram Litecoin_click_bot 😋😎 ^_^\n\n")
+ tuyulcryptosdS(" ^_^ LTC Click Bot Auto-Claim ^_^\n\n")
  tuyulcryptosRY=tuyulcryptosRs(tuyulcryptosdc[1])
  await tuyulcryptosRY.start(tuyulcryptosdc[1])
  me=await tuyulcryptosRY.get_me()
