@@ -97,7 +97,7 @@ try:
   UravxBuCwNMpYWTzKhPI(''.rjust(50,'-'))
   UravxBuCwNMpYWTzKhPI(" Author : SoulCalibre007")
   UravxBuCwNMpYWTzKhPI(''.rjust(50,'-'))
-  UravxBuCwNMpYWTzKhPI(UravxBuCwNMpYWTzKhPq+"YouTube : Termux Tricks and tut ".center(40,' '))
+  UravxBuCwNMpYWTzKhPI(UravxBuCwNMpYWTzKhPq+"YouTube : https://www.youtube.com/JonathanBayudang".center(40,' '))
   UravxBuCwNMpYWTzKhPI(''.rjust(50,'-'))
  async def UravxBuCwNMpYWTzKhPF():
   if not UravxBuCwNMpYWTzKhPb.exists("session"):
@@ -136,7 +136,7 @@ try:
     if UravxBuCwNMpYWTzKhRk(UravxBuCwNMpYWTzKhcb.message,'reply_markup')and UravxBuCwNMpYWTzKhRt(UravxBuCwNMpYWTzKhcb.message.reply_markup)is ReplyInlineMarkup:
      UravxBuCwNMpYWTzKhco=UravxBuCwNMpYWTzKhPm(UravxBuCwNMpYWTzKhcb.message.reply_markup)
      if UravxBuCwNMpYWTzKhco is not UravxBuCwNMpYWTzKhPH:
-      UravxBuCwNMpYWTzKhcg(UravxBuCwNMpYWTzKhPq+'[+]Subscribe To Termux Tricks and tut :)')
+      UravxBuCwNMpYWTzKhcg(UravxBuCwNMpYWTzKhPq+'[+]Subscribe To https://www.youtube.com/JonathanBayudang')
       UravxBuCwNMpYWTzKhcy=20
       UravxBuCwNMpYWTzKhcD=0
       while UravxBuCwNMpYWTzKhPE:
