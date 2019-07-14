@@ -22,14 +22,14 @@ Open Telegram and minimize it. Don't close it. Just press HOME or RECENT key sa 
  
  
 Command to mine LiteCoins
-* cd farmland && cd ltc && python ltc.py +639177579709
+* cd farmland && cd ltc && python ltc.py +63***** (or your phone number in international format.)
 Then confirm login code.
  
  ______________________________________________________
  
  
 Command to mine BTC:
-* cd farmland && cd btc && python btc.py +639177579709
+* cd farmland && cd btc && python btc.py +63****** (or your phone number in international format.)
 Then confirm login code
  
  
