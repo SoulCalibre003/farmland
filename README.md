@@ -8,7 +8,7 @@ Bitcoin (BTC) & Litecoin (LTC) Auto-Claim Bot (Telegram + Termux)
 6. Click Start in "BTC Click Bot"
 7. Open Termux and run the following commands:
  
-PAUNAWA: One command at a time po. Hintaying matapos ang process bago mag-run ng susunod na command.
+REMINDER: RUN One command line at a time. Wait unti the process is finished before running the next command.
  
  
 * pkg install git -y
