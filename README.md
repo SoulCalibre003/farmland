@@ -1,4 +1,4 @@
-Bitcoin (BTC) & Litecoin (LTC) Auto-Claim Bot (Telegram + Termux)
+Bitcoin (BTC) & Litecoin (LTC) Auto-Claim Bot (Telegram + Termux).
 
 1. Download and install Telegram and Termux
 2. Open Telegram and register or login if you already have an account.
